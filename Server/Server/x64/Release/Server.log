@@ -1,0 +1,18 @@
+﻿  Server.cpp
+C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(24,17): warning C4244: инициализация: преобразование "uintmax_t" в "int", возможна потеря данных
+C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(66,14): error C2086: SOCKADDR_IN addr_info: переопределение
+  C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(54,14):
+   см. объявление "addr_info"
+  
+C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(69,6): error C2374: size_addr: переопределение; множественная инициализация
+  C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(56,6):
+   см. объявление "size_addr"
+  
+C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(73,9): error C2374: s_listen: переопределение; множественная инициализация
+  C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(59,9):
+   см. объявление "s_listen"
+  
+C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(95,9): error C2374: s_for_connect: переопределение; множественная инициализация
+  C:\Users\User\Desktop\Курсовая работа1\Server\Server\Server.cpp(62,9):
+   см. объявление "s_for_connect"
+  

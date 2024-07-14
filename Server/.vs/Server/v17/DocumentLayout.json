@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u04301\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD63665-3B4B-4F79-9BA0-D897E18C62BE}|Server\\Server.vcxproj|C:\\Users\\User\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u04301\\Server\\Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CD63665-3B4B-4F79-9BA0-D897E18C62BE}|Server\\Server.vcxproj|solutionrelative:Server\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u04301\\Server\\Server\\Server.cpp",
+              "RelativeDocumentMoniker": "Server\\Server.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u04301\\Server\\Server\\Server.cpp",
+              "RelativeToolTip": "Server\\Server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:28:35.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
